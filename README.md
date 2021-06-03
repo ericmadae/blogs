@@ -1,0 +1,2 @@
+# blogs
+Blog pribadi saya
